@@ -1,0 +1,24 @@
+body{
+    background-color: #483D8B;
+    background-size: cover;
+}
+.field{
+    left: 500px;
+    top: 100px;
+}
+.menu{
+    left: 1100px;
+    top: 200px;
+}
+.button{
+    left: 1175px;
+    top: 300px;
+}
+.field, .menu, .button{
+    border: none;
+    position: absolute;
+}
+input{
+    left: 1300px;
+    top: 100px;
+}
